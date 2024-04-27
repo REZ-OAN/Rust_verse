@@ -62,10 +62,13 @@ required values
 
 ## How CLI looks like  of our implementation
 For the commands `user` or `todo`
+
 ![Packet Encapsulation](https://github.com/REZ-OAN/Rust_verse/blob/arg_parse/images/commands.png)
 For the subcommands of `user`
+
 ![Packet Encapsulation](https://github.com/REZ-OAN/Rust_verse/blob/arg_parse/images/user_subcommands.png)
 For the subcommand `create`
+
 ![Packet Encapsulation](https://github.com/REZ-OAN/Rust_verse/blob/arg_parse/images/user_create_values.png)
 
 You can try your self with the `todo` command!!
