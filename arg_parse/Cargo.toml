@@ -1,0 +1,11 @@
+[package]
+author = "Rezoan Ahmed Abir"
+description = "A simple demonstration how to use clap in rust"
+name = "arg_parse"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
